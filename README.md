@@ -21,4 +21,6 @@ people from scraping content.
 
 4) In the DOWNLOAD.ASP file, the number of downloads are stored in a database file. This can be removed from your code if you want.
 
+See it in action at CommodoreGames.Net
+
 c64milasoft@gmail.com
